@@ -1,0 +1,4 @@
+/Users/anakrasnuk/CLionProjects/untitled12/cmake-build-debug/CMakeFiles/Fractals.dir
+/Users/anakrasnuk/CLionProjects/untitled12/cmake-build-debug/CMakeFiles/MyExecutable.dir
+/Users/anakrasnuk/CLionProjects/untitled12/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/anakrasnuk/CLionProjects/untitled12/cmake-build-debug/CMakeFiles/rebuild_cache.dir
